@@ -10,5 +10,5 @@ Finding some possible frauds so that they can be further investigated by the ban
 # Dataset Information
 For this problem, getting a dataset from UCI machine learning repository. The name of the data set is Statlog (Australian Credit Approval) Data Set.
 
-For more information for the dataset, the link is below:
+For more information for the dataset, link:
 http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)
