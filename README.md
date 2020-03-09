@@ -6,3 +6,9 @@ The bank had issued credit cards to its customers in past few years and the issu
 
 # Problem
 Finding some possible frauds so that they can be further investigated by the bank, thus saving bank from possible losses in the future.
+
+# Dataset Information
+For this problem, getting a dataset from UCI machine learning repository. The name of the data set is Statlog (Australian Credit Approval) Data Set.
+
+For more information for the dataset, the link is below:
+http://archive.ics.uci.edu/ml/datasets/statlog+(australian+credit+approval)
